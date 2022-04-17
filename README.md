@@ -1,4 +1,4 @@
-# week3 case
+# Marvel API
 Marvel API'dan veri çekimi ve pagination yapısı. Görüntülenen karakterler Session Storage'de tutulur ve o karakterler için API'a tekrar istek atmaz. 
 
 https://www.emredag.com.tr/projects/marvel/ ( LIVE )
